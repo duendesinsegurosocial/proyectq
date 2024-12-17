@@ -1,0 +1,2 @@
+# proyectq
+clase de implementacion
